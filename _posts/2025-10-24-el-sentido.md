@@ -1,17 +1,20 @@
+
 ---
 layout: post
-title: ¨ | el sentido¨ 
-subtitle: ¨el mito de Sísifo¨
+title: el sentido
+subtitle: el mito de Sísifo
 tags: [filosofía]
 comments: true
 mathjax: true
 author: claceline
 ---
 
+
+
 ![Sísifo]({{ '/assets/img/sisifo.jpg' | relative_url }})
+
 {: .box-warning}
-⚠️ **Advertencia:** La imagen que acompaña este artículo fue **generada por mí utilizando inteligencia artificial (IA)**.  
-No representa una fotografía real ni un evento histórico.
+⚠️ **Advertencia:** La imagen que acompaña este artículo fue **generada por mí utilizando inteligencia artificial (IA)**. No representa una fotografía real ni un evento histórico.
 
 {: .box-success}
 ...
