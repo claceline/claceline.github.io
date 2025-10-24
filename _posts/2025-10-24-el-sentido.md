@@ -11,7 +11,8 @@ author: claceline
 
 
 
-![Sísifo]({{ '/assets/img/SISIFO_IA.jpg' | relative_url }})
+![Sísifo](/assets/img/SISIFO_IA.jpg)
+
 
 
 {: .box-warning}
