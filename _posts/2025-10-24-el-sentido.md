@@ -11,7 +11,8 @@ author: claceline
 
 
 
-![Sísifo]({{ '/assets/img/sisifo.jpg' | relative_url }})
+![Sísifo]({{ '/assets/img/SISIFO_IA.jpg' | relative_url }})
+
 
 {: .box-warning}
 ⚠️ **Advertencia:** La imagen que acompaña este artículo fue **generada por mí utilizando inteligencia artificial (IA)**. No representa una fotografía real ni un evento histórico.
