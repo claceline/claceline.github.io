@@ -2,7 +2,7 @@
 layout: post
 title: ¨ | el sentido¨ 
 subtitle: ¨el mito de Sísifo¨
-tags: [filodofía]
+tags: [filosofía]
 comments: true
 mathjax: true
 author: claceline
