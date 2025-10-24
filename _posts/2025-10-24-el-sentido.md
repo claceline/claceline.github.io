@@ -7,14 +7,18 @@ comments: true
 mathjax: true
 author: claceline
 ---
-<img src="assets/img/SISIFO_IA.jpg" alt="Sísifo" style="display:block;margin:auto;width:70%;">
+
+![Sísifo]({{ '/assets/img/sisifo.jpg' | relative_url }})
+{: .box-warning}
+⚠️ **Advertencia:** La imagen que acompaña este artículo fue **generada por mí utilizando inteligencia artificial (IA)**.  
+No representa una fotografía real ni un evento histórico.
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+...
 
-**Here is some bold text**
+**el mito de Sísifo**
 
-## Here is a secondary heading
+## ...
 
 [This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
