@@ -1,7 +1,7 @@
 ---
 layout: post
-title: | el sentido 
-subtitle: el mito de Sísifo
+title: ¨ | el sentido¨ 
+subtitle: ¨el mito de Sísifo¨
 tags: [filodofía]
 comments: true
 mathjax: true
